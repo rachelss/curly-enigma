@@ -1,3 +1,5 @@
+#Usage: bash 01-run.sh <filename>
+
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
