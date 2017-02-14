@@ -1,0 +1,5 @@
+  154  for filename in *[AB].txt; do echo bash goostats $filename out-$filename; done
+  155  for filename in *[AB].txt; do bash goostats $filename out-$filename; done
+  156  for filename in *[AB].txt; do echo $filename; bash goostats $filename out-$filename; done
+  157  history|tail -5
+  158  history|tail -5 > myhistory.txt

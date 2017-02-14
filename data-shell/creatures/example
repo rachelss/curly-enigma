@@ -1,0 +1,4 @@
+for filename in *dat
+do
+cp $filename copy_$filename
+done

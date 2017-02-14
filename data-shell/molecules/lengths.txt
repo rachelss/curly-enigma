@@ -1,0 +1,3 @@
+      21 pentane.pdb
+      15 propane.pdb
+      36 total
