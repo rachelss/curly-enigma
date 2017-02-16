@@ -1,6 +1,7 @@
 #Usage: bash 01-run.sh <filename>
 #Counts the number of genes in a gff file
 #I have nothing else to add
+#Still no more
 
 #!/bin/bash
 
